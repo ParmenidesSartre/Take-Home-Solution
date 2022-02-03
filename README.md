@@ -8,9 +8,6 @@ I don't get any callbacks even after sending my resume to various companies. I'm
 
 Deployed on Heroku [here](https://ambulnz-pizzeria.herokuapp.com/)
 
-To better assess a candidate's development skills, we would like to provide the following challenge. This is intended to be developed in a pair programming session within an hour of time. It's allowed to use documentation and online resources.
-
-
 ## Project description
 
 **Pizzeria**
