@@ -1,6 +1,6 @@
 # Take Home Challenges Solution
 
-I don't get any callbacks even after sending my resume to various companies. I'm sad tbh, so i decided to solve take home challenges that is posted on github by companies. I'm stuck in my current company and want to make a career change. Please help me # 🙇
+I don't get any callbacks even after sending my resume to various companies. I'm sad tbh, so i decided to solve take home challenges that is posted on github by companies. I'm stuck in my current company and want to make a career change. Please help me  🙇
 
 # Solutions
 
