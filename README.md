@@ -8,15 +8,6 @@ I don't get any callbacks even after sending my resume to various companies. I'm
 
 To better assess a candidate's development skills, we would like to provide the following challenge. This is intended to be developed in a pair programming session within an hour of time. It's allowed to use documentation and online resources.
 
- ## Installation
-
-Clone the project
-```
-git clone git@github.com:AmbulnzLLC/backend-challenge.git && cd backend-challenge/
-```
-Generate a Node.js or Ruby project. You can add libraries of your choice, but be ready to describe them.
-
-**Please set up up your working environment before the interview (working Node.js or Ruby, MySQL) so we don't spend time installing anything.**
 
 ## Project description
 
@@ -46,23 +37,3 @@ Optional features:
 -   authentication
 -   tests
 -   whatever interesting you'd like to do
-
-## Evaluation
-
-Our goal is to find answers to those questions:
-
--   Do you understand the chosen stack, framework, and MVC pattern in general?
--   Can you design interfaces that are clear and easy to use?
--   Do you master your working environment?
-
-Due to the limited time consider the following:
-
--   It is not important to have a fully functional application at the end
--   The goals might shift during the interview as we discuss the work flow
--   The front-end does not have to be beautiful
-
-Levels of functionality:
-
--   **basic**  - items mentioned in description work
--   **above average**  - some optional features
--   **exceptional**  - getting tests to continuously build, deploy to heroku, etc.
